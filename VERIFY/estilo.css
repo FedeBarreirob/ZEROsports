@@ -1,0 +1,24 @@
+body{
+    background-color: rgba(223, 221, 221, 0.726);
+}
+#verify{
+    margin-top: 30px;
+    background: #2934D0;
+box-shadow: 0px 15px 15px rgba(41, 52, 208, 0.2);
+border-radius: 10px;
+}
+#contieneletras{
+    text-align: center;
+    margin-top: 50px;
+}
+#contieneimagen{
+    text-align: center;
+    margin-top: 35px;
+}
+#informacion{
+    background-color: white;
+    border-bottom: 8px solid #2934D0
+}
+h6{
+    color: gray;
+}
